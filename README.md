@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Deeksha 👋
 
 ## :woman_technologist: About me
 :woman_student: I'm a 2nd Year Software Engineering student at Monash University
