@@ -3,7 +3,7 @@
 ## :woman_technologist: About me
 :woman_student: I'm a 2nd Year Software Engineering student at Monash University
 
-🌱 I’m looking for an Internship in Product Management or Data Analytics
+🌱 I’m currently looking for an IT related internship
 
 
 ## 📧 Contact me via
