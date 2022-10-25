@@ -3,7 +3,7 @@
 ## :woman_technologist: About me
 :woman_student: I'm a 3rd Year Software Engineering student at Monash University
 
-🌱 I’m currently looking for an IT related internship
+🌱 I’m currently looking for an internship in Software Development
 
 
 ## 📧 Contact me via
