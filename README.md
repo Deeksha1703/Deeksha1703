@@ -3,12 +3,6 @@
 ## :woman_technologist: About me
 :woman_student: I'm a 4th Year Software Engineering student at Monash University
 
-🌱 I’m currently looking for an internship in Software Development
-
-
-## 📧 Contact me via
-[![Gmail](https://img.shields.io/badge/-s.deeksha17033@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:s.deeksha17033@gmail.com) 
-
 <!--
 **Deeksha1703/Deeksha1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
