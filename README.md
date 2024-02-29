@@ -2,7 +2,7 @@
 
 ## :woman_technologist: About me
 :woman_student: I'm a 4th Year Software Engineering student at Monash University  
-:💻: I'm seeking full time job opportunities from July 2024
+💻: I'm seeking full time job opportunities from July 2024
 
 <!--
 **Deeksha1703/Deeksha1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
