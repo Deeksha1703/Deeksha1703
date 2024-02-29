@@ -1,7 +1,7 @@
 ### Hi there, I'm Deeksha 👋
 
 ## :woman_technologist: About me
-:woman_student: I'm a 4th Year Software Engineering student at Monash University
+:woman_student: I'm a 4th Year Software Engineering student at Monash University  
 :💻: I'm seeking full time job opportunities from July 2024
 
 <!--
